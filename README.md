@@ -1,4 +1,6 @@
 #Git Course 
 
 
-dsdsdgdfgfdgf
+Rafaella Ballerini 
+
+Aprendendo mais sobre git 
